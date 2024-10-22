@@ -44,6 +44,8 @@ GIF created with [Kap](https://getkap.co/) for macOS
 
 Describe any challenges encountered while building the app.
 
+I could not get the paramerts of my queary to display the data in the API and find data for each given city. I only knew how to find for one specified city then I managed to figure it out that was stressful LOL.
+
 ## License
 
     Copyright [2024] [Stephan Pierre]
